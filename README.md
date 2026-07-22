@@ -27,7 +27,7 @@ Welcome to my operational simulation portfolio. This repository demonstrates day
 * [Case 03: Trade Execution Dispute — Negative Slippage (CPI News)](emails/case-03-execution-dispute-slippage.md)
 
 ### 🛡️ Compliance & KYC/AML Cases
-*(In Progress)*
+* [Case 04: Account Restriction — Enhanced Due Diligence & Source of Funds](emails/case-04-kyc-aml-source-of-funds.md)
 
 ### 💳 Payments & Withdrawal Operations
 *(In Progress)*
