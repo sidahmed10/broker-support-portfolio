@@ -1,2 +1,43 @@
-# broker-support-portfolio
-Operational simulation repository covering 30+ technical trading support scenarios, platform troubleshooting (MT4/MT5), and compliance workflows.
+# Broker Support Specialist Portfolio
+
+Welcome to my operational simulation portfolio. This repository demonstrates day-to-day trading support, technical platform troubleshooting, compliance operations (KYC/AML), and payment investigations within a retail FX/CFD brokerage environment.
+
+---
+
+## 👨‍💼 About Me & Project Purpose
+
+* **Background:** Active practitioner in retail forex and financial markets with practical expertise in technical analysis, risk management, and multi-asset platforms (MT4, MT5).
+* **Objective:** Built to simulate real-world customer support scenarios, internal escalation processes, and standard operating procedures (SOPs) to ensure day-one operational readiness.
+* **Core Competencies:** Technical Troubleshooting, CRM Ticketing, Verification/KYC Protocols, Payment Escalations, Execution Dispute Handling.
+
+---
+
+## 📂 Portfolio Table of Contents
+
+### ✉️ Customer Email Responses
+* [Case 01: Unprocessed Visa Deposit Investigation](emails/case-01-visa-deposit.md)
+
+### 💬 Live Chat Simulations
+*(In Progress)*
+
+### 🖥️ Platform Troubleshooting (MT4 / MT5 / cTrader)
+*(In Progress)*
+
+### 📈 Trading & Market Disputes
+*(In Progress)*
+
+### 🛡️ Compliance & KYC/AML Cases
+*(In Progress)*
+
+### 💳 Payments & Withdrawal Operations
+*(In Progress)*
+
+### 📖 Internal Knowledge Base Articles
+*(In Progress)*
+
+### ⚙️ Standard Operating Procedures (SOPs)
+*(In Progress)*
+
+---
+
+*Created by Sidahmed  — Trading Support Specialist Portfolio*
