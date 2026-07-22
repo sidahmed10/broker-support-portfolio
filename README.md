@@ -21,7 +21,7 @@ Welcome to my operational simulation portfolio. This repository demonstrates day
 *(In Progress)*
 
 ### 🖥️ Platform Troubleshooting (MT4 / MT5 / cTrader)
-*(In Progress)*
+* [Case 02: MT5 "Invalid Account" Connection Error](emails/case-02-mt5-invalid-account.md)
 
 ### 📈 Trading & Market Disputes
 *(In Progress)*
