@@ -31,8 +31,7 @@ Welcome to my operational simulation portfolio. This repository demonstrates day
 * [Case 06: Live Chat — Leverage Change Rejection & Margin Requirements](chat/case-06-live-chat-leverage-change.md)
 
 ### 📖 Internal Knowledge Base Articles
-* [Case 07: Platform Disconnections & Emergency Escalation Protocol](kb/case-07-kb-server-disconnections.md)
-
+* [Case 07: Platform Disconnections & Emergency Escalation Protocol](knowledge-base/KB-OPS-104-Platform-Disconnections.md)
 ### ⚙️ Standard Operating Procedures (SOPs)
 * [Case 08: Standard Operating Procedure for Handling Negative Balance Protection](sops/SOP-OPS-201-handling-negative-balance-protection.md)
 ____ 
