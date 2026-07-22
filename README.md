@@ -24,7 +24,7 @@ Welcome to my operational simulation portfolio. This repository demonstrates day
 * [Case 02: MT5 "Invalid Account" Connection Error](emails/case-02-mt5-invalid-account.md)
 
 ### 📈 Trading & Market Disputes
-*(In Progress)*
+* [Case 03: Trade Execution Dispute — Negative Slippage (CPI News)](emails/case-03-execution-dispute-slippage.md)
 
 ### 🛡️ Compliance & KYC/AML Cases
 *(In Progress)*
