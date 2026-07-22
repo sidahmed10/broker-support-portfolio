@@ -30,7 +30,7 @@ Welcome to my operational simulation portfolio. This repository demonstrates day
 * [Case 04: Account Restriction — Enhanced Due Diligence & Source of Funds](emails/case-04-kyc-aml-source-of-funds.md)
 
 ### 💳 Payments & Withdrawal Operations
-*(In Progress)*
+* [Case 05: Delayed Wire Withdrawal Investigation & Swift GPI Tracking](emails/case-05-delayed-wire-withdrawal.md)
 
 ### 📖 Internal Knowledge Base Articles
 *(In Progress)*
