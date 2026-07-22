@@ -33,7 +33,7 @@ Welcome to my operational simulation portfolio. This repository demonstrates day
 * [Case 05: Delayed Wire Withdrawal Investigation & Swift GPI Tracking](emails/case-05-delayed-wire-withdrawal.md)
 
 ### 📖 Internal Knowledge Base Articles
-*(In Progress)*
+* [KB-OPS-104: Troubleshooting & Escalation Matrix for Platform Disconnections](emails/case-07-kb-server-disconnections.md)
 
 ### ⚙️ Standard Operating Procedures (SOPs)
 *(In Progress)*
