@@ -35,4 +35,5 @@ Welcome to my operational simulation portfolio. This repository demonstrates day
 
 ### ⚙️ Standard Operating Procedures (SOPs)
 * [Case 08: Standard Operating Procedure for Handling Negative Balance Protection](sops/SOP-OPS-201-handling-negative-balance-protection.md)
+* 
 *Created by Sidahmed  — Trading Support Specialist Portfolio*
