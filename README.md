@@ -18,7 +18,7 @@ Welcome to my operational simulation portfolio. This repository demonstrates day
 * [Case 01: Unprocessed Visa Deposit Investigation](emails/case-01-visa-deposit.md)
 
 ### 💬 Live Chat Simulations
-*(In Progress)*
+* [Case 06: Live Chat — Leverage Change Rejection & Margin Requirements](emails/case-06-live-chat-leverage-change.md)
 
 ### 🖥️ Platform Troubleshooting (MT4 / MT5 / cTrader)
 * [Case 02: MT5 "Invalid Account" Connection Error](emails/case-02-mt5-invalid-account.md)
